@@ -43,7 +43,7 @@ For Usage:
   You Can modify the helper in Vendor/Instore/Flashify/Helper or modify the model in  Vendor/Instore/Flashify/Model 
   
   
-  Thanks to Jeffrey Way of Laracast for idea ...
+  Thanks to Jeffrey Way of Laracast for the idea ...
   
   BR SamirBazan - @SHoUkI666
   
