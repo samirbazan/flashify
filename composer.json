@@ -1,0 +1,29 @@
+{
+    "name": "instore/flashify",
+    "description": "Elegant Flash Message with flash()->success('')",
+    "type": "helper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samir Bazan",
+            "email": "gbcsam@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.0"
+    },
+      "autoload": {
+        "psr-4": {
+            "InStore\\Flashify\\": "src/"
+        },
+        "files": [
+        "src/helper/helpers.php"
+      ]
+  },
+  "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
